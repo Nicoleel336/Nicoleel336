@@ -1,6 +1,6 @@
 # Prazer, sou a Nicole! 🌷
 
-Olá, me chamo Nicole Ellen! Sou apenas uma jovem estudante de Ciência da Computação tentando vencer o mundo acadêmico.
+Olá, me chamo Nicole Ellen! Sou uma estudante de Ciência da Computação tentando vencer o mundo acadêmico.
 
 ## Um pouco sobre mim 📖
 
