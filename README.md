@@ -1,13 +1,21 @@
-- 👋 Hi, I’m @Nicoleel336, also known as Nicole
-- I'm a Computer Science student at UFPI (Federal University of Piaui) in Brazil  
-- 👀 I’m currently interested in Machine Learning
-- 🌱 I’m currently learning C, Java, Python and JavaScript
-- 💞️ I’m looking to collaborate on any kind of project, I really want to learn
-- 📫 How to reach me nicolemagsilver@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I like books, games, my family and my bf :)
+# Prazer, sou a Nicole! 🌷
 
-<!---
-Nicoleel336/Nicoleel336 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Olá, me chamo Nicole Ellen! Sou apenas uma jovem estudante de Ciência da Computação tentando vencer o mundo acadêmico.
+
+## Um pouco sobre mim 📖
+
+- Estou estudando sobre Machine Learning;
+- Tenho grande interesse na área de Inteligência Artificial;
+- Gosto de literatura e todo tipo de arte;
+- Amo cachorros e gatos <3
+- Faço parte do grupo Dorothy Piauí, uma organização voltada para estimular a entrada de mulheres e pessoas da comunidade LGBTQI+ na área da tecnologia;
+- Integrante do Centro Acadêmico de Computação da UFPI.
+
+## 🛠 Skills
+- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&color=ff69b4)
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&color=ff69b4)
+- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=ff69b4)
+
+## 🔗 Conecte-se comigo :)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=ff69b4)](https://www.linkedin.com/in/nicole-ellen-magalh%C3%A3es-silvestre-7b32712bb/)
+
