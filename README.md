@@ -10,8 +10,6 @@ Computer Science student at the Federal University of Piauí, researcher in neur
 ###
 
 
-## GitHub Stats
-
 <div style="display: flex; justify-content: space-between;">
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicoleel336&show_icons=true&title_color=ff006e&icon_color=9f86c0&text_color=" />
