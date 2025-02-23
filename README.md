@@ -1,14 +1,9 @@
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=ef476f&height=150&section=header)
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4998&pause=999&color=C31556&center=true&vCenter=true&width=435&lines=Hello+there%2C+my+name+is+Nicole!" />
   </a>
 </div>
-
-
-
-
 
 ###
 I'm a Computer Science student at the Federal University of Piauí, researcher in neural networks, and passionate about machine learning. Currently studying data analysis and data science, always seeking more knowledge.
