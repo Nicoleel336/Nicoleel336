@@ -12,13 +12,16 @@ Computer Science student at the Federal University of Piauí, researcher in neur
 <table>
   <tr>
     <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicoleel336&show_icons=true&title_color=ff006e&icon_color=9f86c0&text_color=" />
+      <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nicoleel336&bg_color=00000000&color=ff0054&title_color=ff0054&line=ff758f&hide_border=true&point=590d22" />
+      </a>
     </td>
     <td>
-      <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicoleel336&bg_color=00000000&color=ff0054&title_color=ff0054&line=ff758f&hide_border=true&point=590d22" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Nicoleel336&show_icons=true&title_color=ff006e&icon_color=9f86c0&text_color=&hide_border=true" />
     </td>
   </tr>
 </table>
+
 
 ## Skills
 <div style="display: flex; justify-content: center; gap: 30px;">
