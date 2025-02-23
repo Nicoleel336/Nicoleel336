@@ -28,10 +28,10 @@ Computer Science student at the Federal University of Piauí, researcher in neur
 
 <div style="display: flex; gap: 10px;">
   <a href="https://www.linkedin.com/in/nicole-ellen-magalh%C3%A3es-silvestre-7b32712bb/">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=C31556" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" />
   </a>
   <a href="mailto:nicoleellen.magalhaes@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=C31556" alt="Gmail" />
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="Gmail" />
   </a>
 </div>
 
