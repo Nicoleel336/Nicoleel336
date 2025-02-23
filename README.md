@@ -1,6 +1,11 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=ef476f&height=150&section=header)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4998&pause=999&color=C31556&center=true&vCenter=true&width=435&lines=Hello+there%2C+my+name+is+Nicole!)](https://git.io/typing-svg)
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4998&pause=999&color=C31556&center=true&vCenter=true&width=435&lines=Hello+there%2C+my+name+is+Nicole!" />
+  </a>
+</div>
+
 
 
 
