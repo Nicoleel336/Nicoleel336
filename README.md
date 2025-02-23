@@ -15,8 +15,8 @@ I'm a Computer Science student at the Federal University of Piauí, researcher i
 ###
 
 [![Nicoleel336's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicoleel336&bg_color=00000000&color=ff0054&title_color=ff0054&line=ff758f&hide_border=true&point=590d22)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicoleel336&show_icons=true&title_color=ff006e&icon_color=b5179e&text_color=f7fff7&bg_color=161a1d" />
+<div style="text-align: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nicoleel336&show_icons=true&title_color=ff006e&icon_color=b5179e&text_color=f7fff7&bg_color=161a1d" alt="Nicole's GitHub stats">
 </div>
 
 ## Skills
