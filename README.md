@@ -32,7 +32,7 @@ I'm a Computer Science student at the Federal University of Piauí, researcher i
   <a href="https://www.linkedin.com/in/nicole-ellen-magalh%C3%A3es-silvestre-7b32712bb/" style="text-decoration: none; outline: none;">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" />
   </a>
-  <a href="mailto:nicoleellen.magalhaes@gmail.com" style="text-decoration: none; outline: none;">
+  <a href="mailto:nicolemagsilver@gmail.com" style="text-decoration: none; outline: none;">
     <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=red" alt="Gmail" />
   </a>
 </div>
