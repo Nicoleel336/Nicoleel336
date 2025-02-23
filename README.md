@@ -9,14 +9,16 @@
 Computer Science student at the Federal University of Piauí, researcher in neural networks, and passionate about machine learning. Currently studying data analysis and data science, always seeking more knowledge.
 ###
 
-
-<div style="display: flex; justify-content: space-between;">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicoleel336&show_icons=true&title_color=ff006e&icon_color=9f86c0&text_color=" />
-  
-  <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicoleel336&bg_color=00000000&color=ff0054&title_color=ff0054&line=ff758f&hide_border=true&point=590d22" />
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicoleel336&show_icons=true&title_color=ff006e&icon_color=9f86c0&text_color=" />
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Nicoleel336&bg_color=00000000&color=ff0054&title_color=ff0054&line=ff758f&hide_border=true&point=590d22" />
+    </td>
+  </tr>
+</table>
 
 ## Skills
 <div style="display: flex; justify-content: center; gap: 30px;">
