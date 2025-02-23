@@ -19,7 +19,7 @@ Computer Science student at the Federal University of Piauí, researcher in neur
 </div>
 
 ## Skills
-<div style="display: flex; justify-content: center; gap: 15px;">
+<div style="display: flex; justify-content: center; gap: 30px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="Java" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="30" height="30"/>
