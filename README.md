@@ -23,6 +23,16 @@ Computer Science student at the Federal University of Piauí, researcher in neur
 
 
 
-          
-## Contacts 
+           
+## Contacts
+
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/nicole-ellen-magalh%C3%A3es-silvestre-7b32712bb/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=C31556" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nicoleellen.magalhaes@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=C31556" alt="Gmail" />
+  </a>
+</div>
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=ef476f&height=150&section=footer)
